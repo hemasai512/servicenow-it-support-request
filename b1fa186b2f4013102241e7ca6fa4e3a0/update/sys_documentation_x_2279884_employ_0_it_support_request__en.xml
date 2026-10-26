@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IT Support Request" language="en" table="x_2279884_employ_0_it_support_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IT Support Request</label>
+            <language>en</language>
+            <name>x_2279884_employ_0_it_support_request</name>
+            <plural>IT Support Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 08:28:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT Support Request</sys_name>
+            <sys_package display_value="Employee IT Support Request Management" source="x_2279884_employ_0">b1fa186b2f4013102241e7ca6fa4e3a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee IT Support Request Management">b1fa186b2f4013102241e7ca6fa4e3a0</sys_scope>
+            <sys_update_name>sys_documentation_x_2279884_employ_0_it_support_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 08:28:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

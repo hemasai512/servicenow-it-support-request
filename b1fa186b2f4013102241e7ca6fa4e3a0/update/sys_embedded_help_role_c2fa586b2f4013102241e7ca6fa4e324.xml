@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2279884_employ_0.itsr_agent" name="x_2279884_employ_0.itsr_agent">8efa586b2f4013102241e7ca6fa4e321</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 08:20:01</sys_created_on>
+        <sys_id>c2fa586b2f4013102241e7ca6fa4e324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8efa586b2f4013102241e7ca6fa4e321</sys_name>
+        <sys_package display_value="Employee IT Support Request Management" source="x_2279884_employ_0">b1fa186b2f4013102241e7ca6fa4e3a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee IT Support Request Management">b1fa186b2f4013102241e7ca6fa4e3a0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c2fa586b2f4013102241e7ca6fa4e324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 08:20:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
